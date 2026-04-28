@@ -1,13 +1,13 @@
 {
-	"id": "dnd5e-ko",
-	"title": "Translation: Korean [D&D 5e](SRD)",
+	"id": "rils-dnd5e-kr",
+	"title": "RIL's D&D 5e kr",
 	"description": "D&D 5e 시스템의 한국어화 모듈입니다.",
 	"version":  "#{VERSION}#",
 	"library": "false",
 	"manifestPlusVersion": "1.2.0",
 	"compatibility": {
 		"minimum": 13,
-		"verified": 13.347,
+		"verified": 13.351,
 		"maximum": 14
 	  },
 	"authors": [
@@ -15,6 +15,10 @@
 		  "name": "Crownel",
 		  "url": "https://twitter.com/TR_crownel",
 		  "discord": "Crownel#4367"
+		},
+		{
+		  "name": "RestInLOV3",
+			"url": "https://x.com/LOV31N_"
 		}
 	  ],
 	"esmodules": ["scripts/babele-register.js"],
